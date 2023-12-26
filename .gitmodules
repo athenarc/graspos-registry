@@ -1,0 +1,6 @@
+[submodule "plugins/ckanext-graspos"]
+	path = plugins/ckanext-graspos
+	url = https://github.com/athenarc/ckanext-graspos
+[submodule "plugins/ckanext-scheming"]
+	path = plugins/ckanext-scheming
+	url = https://github.com/ckan/ckanext-scheming
